@@ -253,7 +253,7 @@ html {
 
 .custom-shape-divider-bottom-1712525782 {
     position: absolute;
-    bottom: 66px;
+    bottom: 65px;
     left: 0;
     width: 100%;
     overflow: hidden;
@@ -394,7 +394,7 @@ html {
 }
 
 .adoptmsg-image {
-    translate: -160px -18vh;
+    translate: -160px -32.7vh;
     -moz-transform: scaleX(-1);
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
