@@ -6,7 +6,7 @@
 
 Aqui você encontrará uma variedade de metodos de progamação baseados em HTML semântico e CSS, a fim de criar uma pagina de Website baseada em um dos modelos passados na atividade, neste caso o 4° modelo:
 
-![Modelo de Website](/Imagens/modelo4.jpg">)
+![Modelo de Website](/Imagens/modelo4.jpg)
 
 ## Tema do projeto || Abrigo de Animais Au!Ma Gêmea 🐾
 
